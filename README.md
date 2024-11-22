@@ -18,6 +18,6 @@ Explore the Iris dataset
 Preprocess the data
 Train a neural network to classify the species of iris flowers
 Evaluate the performance of the model
-The code will demonstrate how to build and train an ANN using Python and relevant machine learning libraries such as TensorFlow and Keras.
+The code will demonstrate how to build and train an ANN using Python.
 
 By the end of the project, we aim to achieve an accurate classification of iris flower species, showcasing the practical use of neural networks in solving real-world problems.
